@@ -1,87 +1,78 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
-  "name": "Mint Starter Kit",
+  "name": "eSpmi Documentation",
   "colors": {
-    "primary": "#16A34A",
-    "light": "#07C983",
-    "dark": "#15803D"
+    "primary": "#f63a4c",
+    "light": "#f63a4c",
+    "dark": "#f63a4c"
   },
   "favicon": "/favicon.svg",
   "navigation": {
+    "global": {
+      "anchors": [
+        {
+          "anchor": "ecampuz.com",
+          "icon": "book-open-cover",
+          "href": "https://ecampuz.com"
+        },
+        {
+          "anchor": "Blog",
+          "icon": "newspaper",
+          "href": "https://blog.ecampuz.com"
+        }
+      ]
+    },
     "tabs": [
       {
-        "tab": "Guides",
+        "tab": "Panduan",
         "groups": [
           {
-            "group": "Getting started",
+            "group": "Pengenalan",
             "pages": [
               "index",
               "quickstart",
-              "development"
+              "exit-portal",
+              "ubah-password"
             ]
           },
           {
-            "group": "Customization",
+            "group": "Fitur Utama",
+            "expanded": true,
             "pages": [
-              "essentials/settings",
-              "essentials/navigation"
+              {
+                "group": "Akademik",
+                "icon": "graduation-cap",
+                "pages": [
+                  "main-feature/akademik/mahasiswa",
+                  "main-feature/akademik/kelompok-ujian"
+                ]
+              },
+              {
+                "group": "Pengaturan Pembayaran",
+                "icon": "folder-gear",
+                "pages": [
+                  "main-feature/pengaturan-pembayaran/tarif-perangkatan"
+                ]
+              },
+              {
+                "group": "Tagihan",
+                "icon": "clipboard",
+                "pages": [
+                  "main-feature/tagihan/pengaturan-tagihan"
+                ]
+              }
             ]
           },
           {
-            "group": "Writing content",
+            "group": "Administrator",
             "pages": [
-              "essentials/markdown",
-              "essentials/code",
-              "essentials/images",
-              "essentials/reusable-snippets"
-            ]
-          },
-          {
-            "group": "AI tools",
-            "pages": [
-              "ai-tools/cursor",
-              "ai-tools/claude-code",
-              "ai-tools/windsurf"
-            ]
-          }
-        ]
-      },
-      {
-        "tab": "API reference",
-        "groups": [
-          {
-            "group": "API documentation",
-            "pages": [
-              "api-reference/introduction"
-            ]
-          },
-          {
-            "group": "Endpoint examples",
-            "pages": [
-              "api-reference/endpoint/get",
-              "api-reference/endpoint/create",
-              "api-reference/endpoint/delete",
-              "api-reference/endpoint/webhook"
+              "administrator/manajemen-pengguna"
             ]
           }
         ]
       }
-    ],
-    "global": {
-      "anchors": [
-        {
-          "anchor": "Documentation",
-          "href": "https://mintlify.com/docs",
-          "icon": "book-open-cover"
-        },
-        {
-          "anchor": "Blog",
-          "href": "https://mintlify.com/blog",
-          "icon": "newspaper"
-        }
-      ]
-    }
+    ]
   },
   "logo": {
     "light": "/logo/light.svg",
