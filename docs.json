@@ -37,7 +37,17 @@
             ]
           },
           {
-            "group": "Fitur Utama",
+            "group": "Manajemen Referensi",
+            "pages": [
+              "referensi/tahun-periode",
+              "referensi/lembaga-akreditasi",
+              "referensi/auditee-pusat",
+              "referensi/auditee",
+              "referensi/unit-penunjang"
+            ]
+          },
+          {
+            "group": "Pelaksanaan",
             "expanded": true,
             "pages": [
               {
