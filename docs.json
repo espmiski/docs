@@ -47,6 +47,21 @@
             ]
           },
           {
+            "group": "Manajemen Dokumen",
+            "pages": [
+              "dokumen/kategori-dokumen",
+              "dokumen/jenis-dokumen",
+              "dokumen/manajemen-dokumen"
+            ]
+          },
+          {
+            "group": "Penetapan",
+            "pages": [
+              "penetapan/daftar-nilai-mutu",
+              "penetapan/daftar-standar-mutu"
+            ]
+          },
+          {
             "group": "Pelaksanaan",
             "expanded": true,
             "pages": [
