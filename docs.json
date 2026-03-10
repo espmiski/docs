@@ -70,7 +70,7 @@
               "pelaksanaan/evaluasi-diri",
               {
                 "group": "Lihat Data Pendidikan",
-                "icon": "graduation-cap",
+                "icon": "angle-right",
                 "pages": [
                   "pelaksanaan/data-pendidikan/ipk",
                   "pelaksanaan/data-pendidikan/drop-out",
@@ -80,7 +80,7 @@
               },
               {
                 "group": "Lihat Data Penelitian",
-                "icon": "graduation-cap",
+                "icon": "angle-right",
                 "pages": [
                   "pelaksanaan/data-penelitian/penelitian",
                   "pelaksanaan/data-penelitian/karya-ilmiah",
@@ -90,7 +90,7 @@
               },
               {
                 "group": "Lihat Data Pengabdian",
-                "icon": "graduation-cap",
+                "icon": "angle-right",
                 "pages": [
                   "pelaksanaan/data-pengabdian/kegiatan-pkm",
                   "pelaksanaan/data-pengabdian/publikasi-pkm",
