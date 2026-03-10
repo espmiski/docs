@@ -101,6 +101,17 @@
             ]
           },
           {
+            "group": "Evaluasi (AMI)",
+            "pages": [
+              "evaluasi-ami/manajemen-auditor",
+              "evaluasi-ami/jenis-temuan",
+              "evaluasi-ami/kategori-temuan",
+              "evaluasi-ami/daftar-temuan-kolektif",
+              "evaluasi-ami/rekap-desk-evaluation",
+              "evaluasi-ami/laporan-ami"
+            ]
+          },
+          {
             "group": "Administrator",
             "pages": [
               "administrator/manajemen-pengguna"
