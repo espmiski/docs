@@ -112,6 +112,15 @@
             ]
           },
           {
+            "group": "Pengendalian & Peningkatan",
+            "pages": [
+              "evaluasi-ami/daftar-temuan",
+              "evaluasi-ami/daftar-kesesuaian",
+              "evaluasi-ami/daftar-laporan-rtm",
+              "evaluasi-ami/upload-laporan-rtm"
+            ]
+          },
+          {
             "group": "Administrator",
             "pages": [
               "administrator/manajemen-pengguna"
