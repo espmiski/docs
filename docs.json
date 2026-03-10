@@ -65,26 +65,17 @@
             "group": "Pelaksanaan",
             "expanded": true,
             "pages": [
+              "pelaksanaan/pengaturan-periode",
+              "pelaksanaan/target-nilai-mutu",
+              "pelaksanaan/evaluasi-diri",
               {
-                "group": "Akademik",
+                "group": "Lihat Data Pendidikan",
                 "icon": "graduation-cap",
                 "pages": [
-                  "main-feature/akademik/mahasiswa",
-                  "main-feature/akademik/kelompok-ujian"
-                ]
-              },
-              {
-                "group": "Pengaturan Pembayaran",
-                "icon": "folder-gear",
-                "pages": [
-                  "main-feature/pengaturan-pembayaran/tarif-perangkatan"
-                ]
-              },
-              {
-                "group": "Tagihan",
-                "icon": "clipboard",
-                "pages": [
-                  "main-feature/tagihan/pengaturan-tagihan"
+                  "pelaksanaan/data-pendidikan/ipk",
+                  "pelaksanaan/data-pendidikan/drop-out",
+                  "pelaksanaan/data-pendidikan/lulus-tepat-waktu",
+                  "pelaksanaan/data-pendidikan/tugas-akhir"
                 ]
               }
             ]
