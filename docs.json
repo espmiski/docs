@@ -77,6 +77,26 @@
                   "pelaksanaan/data-pendidikan/lulus-tepat-waktu",
                   "pelaksanaan/data-pendidikan/tugas-akhir"
                 ]
+              },
+              {
+                "group": "Lihat Data Penelitian",
+                "icon": "graduation-cap",
+                "pages": [
+                  "pelaksanaan/data-penelitian/penelitian",
+                  "pelaksanaan/data-penelitian/karya-ilmiah",
+                  "pelaksanaan/data-penelitian/haki",
+                  "pelaksanaan/data-penelitian/publikasi-jurnal"
+                ]
+              },
+              {
+                "group": "Lihat Data Pengabdian",
+                "icon": "graduation-cap",
+                "pages": [
+                  "pelaksanaan/data-pengabdian/kegiatan-pkm",
+                  "pelaksanaan/data-pengabdian/publikasi-pkm",
+                  "pelaksanaan/data-pengabdian/bahan-ajar-pkm",
+                  "pelaksanaan/data-pengabdian/mutu-pelaksanaan"
+                ]
               }
             ]
           },
