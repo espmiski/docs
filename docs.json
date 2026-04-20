@@ -121,9 +121,10 @@
             ]
           },
           {
-            "group": "Administrator",
+            "group": "Pengaturan Sistem",
             "pages": [
-              "administrator/manajemen-pengguna"
+              "administrator/manajemen-pengguna",
+              "administrator/manajemen-pengguna-copied-1"
             ]
           }
         ]
